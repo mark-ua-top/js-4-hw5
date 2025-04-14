@@ -713,7 +713,7 @@ newGameBtn.addEventListener("click", ()=>{
     });
 });
 
-},{"@pnotify/core/dist/BrightTheme.css":"grIyt","@pnotify/core":"fay4s"}],"grIyt":[function() {},{}],"fay4s":[function(require,module,exports,__globalThis) {
+},{"@pnotify/core":"fay4s","@pnotify/core/dist/BrightTheme.css":"grIyt"}],"fay4s":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 !function(t, e) {
     e(exports);
@@ -3337,6 +3337,6 @@ var global = arguments[3];
     });
 });
 
-},{}]},["kxwl6","jOXmm"], "jOXmm", "parcelRequire5ade", {})
+},{}],"grIyt":[function() {},{}]},["kxwl6","jOXmm"], "jOXmm", "parcelRequire5ade", {})
 
 //# sourceMappingURL=js-4-hw5.e02fbd41.js.map
